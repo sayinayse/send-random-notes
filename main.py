@@ -3,13 +3,12 @@ import random
 from telegram import Bot
 from dotenv import load_dotenv
 
-# .env dosyasından değerleri yükle
 load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
-NOTES_FOLDER = "notes"  # GitHub'da bu klasör olacak
+NOTES_FOLDER = "notes"  # Put notes in this folder 
 bot = Bot(token=BOT_TOKEN)
 
 def send_random_note():
