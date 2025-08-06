@@ -16,7 +16,7 @@ jobs:
     - name: Checkout private notes repo
       uses: actions/checkout@v4
       with:
-        repository: ayse-sayin/book-notes  # GitHub kullanıcı adın buysa
+        repository: sayinayse/book-notes  # GitHub kullanıcı adın buysa
         path: book-notes
         token: ${{ secrets.NOTES_TOKEN }}
 
