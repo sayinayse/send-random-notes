@@ -1,0 +1,62 @@
+2024'te bir yer.
+#etimoloji 
+<dfn title="benlik, özdeşlik"> özdenlik </dfn>
+<dfn title="hastalık"> sayrılık </dfn>
+<dfn title="indirme, özellikle ayet indirme"> inzal </dfn>
+bkz. <dfn title="inde, felç"> nüzul </dfn>
+<dfn title="içe dönüklük, dış dünyayla ilgiyi kesme"> otizm</dfn>
+bkz. <dfn title="kendi"> auto </dfn>
+<dfn title="her türlü anormal cinsel ilişki, anal ilişki (Bu sözcük İbranice Sodōm “Tevrat'a göre sapıklığa meylinden dolayı Allah'ın kahrettiği kent” özel isminden türetilmiştir.)"> sodomi</dfn>
+<dfn title="Fr. isoler yalıtmak, yalnızlaştırmak. Italyanca isolare kanal açarak bir yeri koparmak/ada yapmak -> ada bar'da bira içerek yazdığımdan hoşnut etti. "> izole </dfn>
+<dfn title="idrak edim, kavrayış"> usavurum </dfn> ^59b9a3
+<dfn title="seçip ayırmak, seçicilik"> eklektizm </dfn>
+
+- *iyi bir açılış ile başlamış kitap. sade'ın kendi sözüyle kendini anlatışı alıntısı ile* "kızgın, karşı konmaz, öfkeyle dolu, her şeyde aşırı, töreler konusunda görülmedil bir hayalleme sapışı *(hayalleme sapışı harika bir isim tamlaması)* taşıyan, bağnazlığa dek tanrısız... bir iki lafla ben böyleyim işte. ya olduğum gibi alın ya da vurup öldürün beni. çünkü değişmeyeceğim" *:) hasta orospu çocuğu, son kez :)
+- on ciltlik florabelle'in güncesi kendi ö oğlunun gammazlamasıyla ortadan kaldırılmıştır.
+- sade'ın sapıklıkları, birer doğa verisi olarak bu sapıklıklara uyacağı yerde, onları savunmak için geniş bir sitem kurmasıyla değer kazanmaktadır.
+- #toplum-birey #sarsılmaz-inanç sade psiko-fizyolojik kaderini töresel bir seçmeye *(töresel bir seçiş, yine harika bir isim tamlaması)* dönüştürmek istemiş, toplumdan kopuşunu yüklenn bu edimiyle de bir örnek vermeye, bir çağrıda bulunmaya kalkmıştır; serüveninin geniş bir insani anlama bürünmesi işte bu noktadadır.  ^39845c
+- #toplum-birey sade'da farklar bir yandan rezalete kadar uzanıyor; öte yanda edebi çalışmasının genişliği toplumca kabul edilmeyi nasıl bir tutkuyla istediğini gösteriyor. hiçbir bireyin kendini aldatmadan savuşturamayacağı bu çatışmalara onda en aşırı biçimde rastlıyoruz.
+- sade'la tam bir özdenlik kuramayacağız. #anlamak *anladığımız herkesle bir özdenlik kuruyor muyuz? tam anlamıyla? kısmen özdenlik kurmadığımız birini anlamamız epey güç.*
+- bir süredir derin tatlar bulduğu baldızını batan çıkardı. rahibe, kızoğlankız, üstelik karısının kardeşi... *:)*
+- cezaevinde ... dört kişilik yemek yediğini anlatıyor.
+- 1800 başlarında "açlıktan, soğuktan ölecek herhalde" ve borçlarından çtürü hapsedilme tehlikesi içinde versailles sayrılar aevine düşmüştür. *bir marquis olarak :)
+- *güzel bir isim tamlaması daha* hayatından ibaret bu acı deney 
+- sade sadece çok şey anlatan bir yazar değil, kötü bir anlatıcı aynı zamanda. öyküleri justine ile juliette'in 1797 baskısındaki gravürlere benzer: kişilerin duruşları, anatomileri titiz bir gerçeklikle çizilmiştir, ama yüzlerindeki acemi ve tekdüze saflık, katılmış bulundukları çirkin eğlenceleri gerçekle ilgili değillermiş gibi gösterir. *burada sade'ın zaten "gerçekle ilintisi olsun" amacı taşımadığını söyleyeceğim. hiç böyle bir niyeti yok. baştan sona fantezilerinin abartılı olduğunu umduğum bir yansımasını aktarıyor.* ^ef583a
+- diderot'un rahibe adlı yapıtındaki superiuere'ün girdiği coşkularla sade'ın adamlarında rastlanan kaba zevkleri yan yana düşünelim. ... sade'ın kişilerinde erkeğe özgü saldırganlık, bedenin etinde, kemiğinde meydana gelen alışılmış değişimle azalmamakta, bir an bile, hayvansallığı içinde yok olmamaktadır. *yukarıda bahsettiğim fantezilerin abartılı yansımasından ötürü böyle olduğunu düşünüyorum. beauvoir'in aksine burada bir kasıt olduğu kanısındayım*
+- #şehvet #çirkinlik cinsel çekiciliği doğuran en güçlü ögeler arasında sade, yaşlılığı, çirkinliği, pis kokuyu sayar. ... #güzellik güzellik çok basittir; bilinci yalnızlığından, bedeni kayıtsızlığından sıyıramayan entelektüel bir yargıyla kavranır; çirkinlik ise aşağılanır.
+- #acı-haz sonuçta mazoşistin aradığı da bu olmaktadır: cansız nesne hâline gelerek kendini yok etmek.
+- uşağıyla birleşirken aynı zamnda bir kızı kamçıladığını da anımsayalım. hele bu tutum onun en sevdiği yöntemlerden biridir; kendisine saldırılıp işkence edilirken onun da o sırada zavallı bir kurbancığa saldırıyor, acı çektiriyor olması hâli.
+- *harika bir isim tamlaması gerçekten* töresel bir anlamla *törensel bir anlam tabiri de hoş olurdu.*
+- #toplum-birey 1763 rezaletinden sonra *1763 yılında Sade Paris yakınlarında yaşamaya başladı. Birçok fahişe onun kötü davranışlarından şikâyetçiydi ve polis tarafından gözaltına alındı, yaşanan olaylar hakkında detaylı raporlar tutuldu.* sade'ın erotizmi artık sadece bireysel bir tavır olmaktan çıkıyor, aynı zamanda topluma karşı bir meydan okuma hâline geliyor.
+- *güzel isim tamlamalarına, betimlemelere, kısa ifade edişlere, ibarelere devam* bayağılığın rahat havası, düşüncesiz bir küstahlık ortamı 
+- isolisme -> soyutlanma
+- #cinayet öldürme, korkusuz ve yasa tanımaz bir özgürlüğün öfkeli iradesini en iyi belirten bir edimdir.
+- #yalnızlık #üretim gerçek bir yaratıcı, -hiç değikse belli bir planda, belli anlarda- verilerden kurtulmalı, bütün bir yalnızlık içinde öbür insanların ötesine sıçramalıdır. sade'da ise #kibir kibrinin iyice maskeleyemediği içten bir tutuku, bir zayıflık var; suçluluk adı altında da olsa #toplum-birey  toplum sade'ın yüreğinde bağdaş kurmuştur; *harika bir ifade ediş daha!*  dünyayı, insanı ve kendisini yeniden yaratmak için ne zamanı ne de araçları vardır; iyice sıkışık durumdadır; kendini #bahane-sunmak savunmanın verdiği bir sıkışıklıktır bu...
+- #iyi-ve-kötü justine'in giyindiği "gaz"ları da bir edebiyat yapmacığından fazla bir şey olarak düşünmeliyizdir. iyiliği inciterek eğlenmek için ona bir gerçeğin yüklenmesi gerekir. öykülerini ahlaksız bularak eleştirenlere karşı sade ikiyüzlülük içerisinde şunları yazmıştır: "çevresinde biriken pislikleri, rezaletleri iyice anlatmadan, iyiliği belirtmenin olanağı var mıdır?" ama kendisi bunun tam tersini düşünmektedir: iyinin aldatıcılığını kavramamış okurlara, kötünün tatlarını nasıl aşılamalı acaba?
+- [[#^ef583a]] sade kişilerine diri bir yoğunluk kazandıracağı yerde onlarda tatlı tatlı sayıklamayı sevmektedir; bu kişiler vicdan azabını bilmezler, daha yeni doydukları zamanlarda bile iştahsızlık yoktur *([[#^ef583a]]'da bahsettiğim gerçeküstücülük, kasıtlı yapıyor ve bu bir özdenlik kurabilme eksikliği getiriyor yarattığı karakterlerle. beavoir buna değinmeden iki ayrı gerçeklik olarak belirtmiş)* onlarda, göz kırpmadan adam öldürürler, hepsi de kötünün soyut biçimlerinden ibarettirler. ^35ad33
+- öznenin iç durumunu kavrayabilmek. sade'ın kişileri öyle değil; onları daha çok dıştan kavrıyoruz. [[#^35ad33]]
+- öte yandan cinselliğe onu aşan bir anlam yüklemeye çalışan bir davranışı var; libido her yerdedir ve her zaman kendinden fazla bir görünüm kazanmak eğilimindedir; sade bu gerçeği sezmişti kuşkusuz.
+- *bir alıntı yapıyor sade'dan ki beavoir'in [[#^39845c]] bu söylediği çıkarımının da  sade'da bilinçli bir tutum olduğunu gösteriyor.* "sapışlarımı usavurumlar[[#^59b9a3]] ile destekledim; kuşkulanacak hiçbir şeyim yok: #sarsılmaz-inanç zevklerime karşı çıkabilecek her şeyi içimden söktüm, attım, yok ettim." *sarsılmaz bir inanca sahip olmayı bilinçli olarak seçmek bir yerde aklî bir sebebe dayanabilir mi? herhangi bir konuda, herhangi bir şekilde?* belki de bin kez söylemiştir, özgürlük çabalarının ilki pişmanlığa karşı kesin bir zafer kazanmak olmalıdır. *şimdi bir önceki araya girişimde sorduğum sorunun yanıtına kısmî bir çıkarım ile ekleme yapabilirim. sarsılmaz inanca sahip olmak pişmanlık duymayı engeller. pişmanlık duymayış ise özgürleştirir diyor sade. öncüller bunlar.*
+- #sarsılmaz-inanç sade'ın eğilimi temelde bir dinsizlik eğilimidir; en ufak bir metafizik kaygı yok onda; kendi anlamını ve kaderini araştırmayacak kadar varlığını ileri sürmeye dalmıştır.
+- bununla birlikte insanlar arasında da tek başınadır. 18. yyın tanrının egemenliğini yürürlükten kaldırdığı ölçüde sade da onu başka bir putla değiştirdi. *bam!!! tam olarak justine kitabında yazdığım (ctrl + f) yapıp doğa yerine allah yazabilirsin durumu.* tanrıya inananlar da tanrıtanımazlar da yüce iyi'nin gömlek değiştirmiş yeni görünümüne aynı adı bulmuşlardır: doğa. böylece evrensel ve kesin bir ahlakın kolay uyumlarından vazgeçmiş olmuyorlar. yüksek değerler göçmüş, zevk, iyinin ölçüsü olmuş ve bu hedonizmle #özseverlik özseverliğe itibar kazandırmıştır. 
+- rousseau: "bence #aşk sevilen nesnenin kusursuzluğunu düşleyerek yanıp yakılabilmektir; bu düş onu erdemin coşkusuna götürecektir; çünkü bu fikir her zaman kusursuz bir kadın fikrine bitişecektir."
+- **jansencilik** katolik teolojik hareket. mukadderatçı (kader - mukadderat:). dünyanın temelleri kurulmadan zaten kurtarılacak kişiler seçilmiştir diyor. insan ne yaparsa yapsın bunu değiştiremez diyor.
+- **püritenlik** ingiliz kilisesinde. protestan reformu. 16. 17. yy'da kilise baskısı yüzünden amerika'ya göç ediyorlar. *new england:)* "saflığı" aramak.
+- harikulâde bir deyiveriş: "insan edimlerinin ahlakî kayıtsızlığı"
+- çağdaşlarının iyinin yararına ileri sürdükleri örnekleri kötünün yararına kullanmaktan hınzırca bir zevk duymuştur :)
+- sade'a göre kurallar görece ise (*bu coğrafyalar arası görecelik de olabilir*), bu onların keyfî olduğunu gösterir.
+- #güçlü-zayıf tek sonucu güçsüzlerin ezilmesi olan yasalardaki ikiyüzlülüğü bununla açıklamaktadır.
+- sade'ın sıkıntısını k duyduğu kendi durumudur. kendini değiştirme yolunda fazla kaygılandığı yoktur: daha çok seçmelerinin onaylanmasını istemektedir.
+- çünkü bu uyumsuz aristokrat hiçbir yerde kendine benzeyen kimselere rastlamamıştır. her ne kadar genellemelerden kaçınıyorsa da sade'ın kendi durumunu metafizik bir kader değerine bağladığı gözden kaçmamaktadır: insan dünyada yalnızdır, soyutlanmıştır, birbirlerine hiçbir gereksinimleri yoktur.
+- #yalnızlık ne var ki, insan sadece kendi yalnızlığıyla karşı karşıya değildir. onu herkese karşı savunmak durumundadır.
+- #ümit yoksulları iyice umutsuz bırakmazsanız her zaman başkaldırabilirler; onun için en iyisi hepsini yok etmek
+- sade'ın kişileri küçük bir sadakayla savmak yerine bir zavallıyı açlıktan ölmeye terk ediyorlarsa, bu, vicdanlarını ufak bir bedelle yatıştıran şerefli baylarla aynı hizaya gelmek istememelerindendir.
+- #erdem erdem hiçbir tansımaya, hiçbir teşekküre değmez. çünkü bu yüceliğin buyruklarını yansıtmakta değil, kendisini ileri sürenlerin çıkarlarına yaramaktadır erdem.
+- #erdem sade, erdemle ayıbın arasındaki bu paralelde kendini daha iyi açıklamak olanağını buluyor: "birincisi düşseldir, ikincisi gerçek. birincisi önyargılara dayanır, ikincisi akla. sözgelimi birincisini şöyle bir becersem ikincisine pek bir şey olmaz." *erdemi sikersem ayıba bir şey olmaz ama ayıbı sikersem erdemin canı sıkılır demek ahahaha. kavramlarda bile güç karşılaştırması yapmak.*
+- ... kendilerini onaylamadan sınıyorlar...
+- suçlu bir şekilde öldürme edimi insanın tek hüneridir der sade.
+- doğanın onurunu kırmak imkânsızlığı bana kalırsa insanın en büyük saldırganlığıdır da der. *yine doğa tanrı durumu*
+- zevk düşkününe coşku veren şey duyduğu acılar değil, o acıları yaratanın kendisi olduğunu bilmesidir.
+- kendi tekliğinden vazgeçmeye razı olmayan bireyi bu kez toplum reddetmektedir. ama her öznede onu benzerlerine bağlayan yüceliği tanımazsanız, bu kez onlar kendilerine yeni tanrılar, yeni değerler arayacaklar ve anlamsız, garip bulduğumuz yönleri daha da kesinleşecektir; bugün yarına feda edilecek, azınlık çoğunluğa, tek tek özgürlükler ortak bütünlüğe feda edilecektir.
+- her an boşu boşuna, haksız olarak, binlerce insan acı çekiyor, ölüyor ama hiçbirimizin kılı bile kıpırdamıyor buna: varlığımız kendi olanaklarını yalnız  böyle olaylar pahasına kazanıyor da ondan. sade'ın erdemi herkesin yalnız kendi kendine utançla itiraf ettiği şeyi yüksek sesle bağırmasında değil. sade bu işin kavgasını da üstlenmiştir. kayıtsızlığa karşı kıyıcılığı seçmiştir. bireyin kendisini insanların kötülüğünden çok iyiniyetine kurban gittiğini sandığı şu çağda bu kadar yankı uyandırması da bundandır; bu müthiş iyimserliği yıkma konusunda bireyin yardımına koşmuştur sade...
+- sade günümüzde türlü görünümler altında dönen temel soruna eğilmemizi istiyor bizim: insanın insanla ilişkilerine eğilmemize.
