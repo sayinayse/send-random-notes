@@ -1,7 +1,0 @@
-- kelle hamalları
-- *inkılap tarihi derslerine kurtuluş savaşında rol almış ya da önemli kişiler katılıyormuş bizim milli güvenlik dersi zamanları gibi*
-- "hocam nedir bu karanlıkta duyduklarım // kimdir böylesine acı çeken insanlar?"   dedi:   "bahtsız ruhların perişan halidir bu // o ruhlar ki dünyada gamsız yaşadıları // ne günah işlediler ne sevap işlediler"
-- nesebi gayri sahih (piç)
-- o yanı da hesaplı palavra! o öylesine çukurda birisidir, tanrısına dua ederken bile söze zatıaliniz diye başlar
-- duyumsama fukaralığı
-- çok ilginç bazı zevklere rastlamak, yaşamanın zevklerinden biridir
