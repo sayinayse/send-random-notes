@@ -8,7 +8,7 @@ load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
-NOTES_FOLDER = "notes"  # Put notes in this folder 
+NOTES_FOLDER = "book-notes"    
 bot = Bot(token=BOT_TOKEN)
 
 def send_random_note():
