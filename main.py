@@ -20,7 +20,7 @@ def send_random_note():
                     md_files.append(os.path.join(root, file))
 
         if not md_files:
-            print("No .md files in the given path.")
+            print("No .md files in the given path. ")
             return
 
         selected = random.choice(md_files)
